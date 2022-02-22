@@ -2,8 +2,7 @@
 
 body {
     font-family: 'Montserrat', "Helvetica Neue", Helvetica, Arial, sans-serif;
-    background-image: url("bgBlue.jpg");
-    color: #444444;
+    color: #ffffff;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -15,7 +14,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .main-bg-color {
-    background-color: #7DC7EA;
+    background-color: #ffffff;
 }
 
 .game-list-item {
